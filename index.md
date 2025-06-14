@@ -1,3 +1,2 @@
-My name is Rachael ---
-title: Welcome to my blog!
+My name is Rachael: Welcome to my blog!
 ---
